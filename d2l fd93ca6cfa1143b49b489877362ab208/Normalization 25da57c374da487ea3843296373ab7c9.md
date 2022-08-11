@@ -1,0 +1,5 @@
+# Normalization
+
+[Batch Normalization](Normalization%2025da57c374da487ea3843296373ab7c9/Batch%20Normalization%20d9ed1b15c4f24bdcb7fd9fb197ebfef5.md)
+
+[Layer Normalization](Normalization%2025da57c374da487ea3843296373ab7c9/Layer%20Normalization%20c43b467c5f824fe1a96fdc0de7f1f1fc.md)

@@ -1,0 +1,3 @@
+# Application Confirmation
+
+We're writing to confirm that we've received your application and will be processing it this week. In the meantime...
